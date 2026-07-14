@@ -47,3 +47,6 @@ Manually triggered the backdoor using netcat and gained root shell access on the
 
 ## Disclaimer
 This lab was conducted in an isolated virtual environment using Metasploitable2, a deliberately vulnerable machine designed for security training. All activities were performed ethically and legally.
+
+## Related Project
+This exploitation lab is complemented by a broader network penetration testing project performed against the same target machine: **[Wireshark Pentest Lab](https://github.com/tadija-pentest-labs/wireshark-pentest-lab)** — includes reconnaissance, MITM/ARP spoofing, brute-force attacks, web application exploitation, and post-exploitation via a separate backdoor (UnrealIRCd, CVE-2010-2075), all analyzed at the packet level in Wireshark.
